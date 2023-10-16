@@ -1,7 +1,8 @@
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 title: Neurobiology of Autism
 
 #remote_theme: pages-themes/midnight@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: streetturtle/jekyll-clean-dark
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false
