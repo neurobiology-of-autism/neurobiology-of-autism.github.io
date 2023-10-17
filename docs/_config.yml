@@ -1,8 +1,8 @@
 title: Neurobiology of Autism
-author: Neurobiology of Autism Group
 
 #remote_theme: pages-themes/midnight@v0.2.0
-remote_theme: abhinavs/moonwalk
+# remote_theme: abhinavs/moonwalk
+remote_theme: Jekyll-Garden/jekyll-garden.github.io
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false
