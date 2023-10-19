@@ -8,6 +8,6 @@ tags:
   - prenatal
 ---
 Figure 1A is a nice review figure:
-![[2023-10-17-Courchesne-2020-Prenatal-Origins-Fig1.png]]
+![Figure 1A from the paper](/assets/images/2023-10-17-Courchesne-2020-Prenatal-Origins-Fig1.png)
 
 https://pubmed.ncbi.nlm.nih.gov/32353336/
