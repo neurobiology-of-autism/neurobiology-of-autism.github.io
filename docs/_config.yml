@@ -15,3 +15,29 @@ highlighter: rouge
 
 sass:
   style: :compressed
+
+defaults:
+  # Academic article
+  - scope:
+      path: "_posts/article"
+      type: posts
+    values:
+      permalink: article/:title  
+  # Academic article
+  - scope:
+      path: "articles"
+      type: posts
+    values:
+      permalink: articles/:title
+  # Hypothesis
+  - scope:
+      path: "_posts/hypothesis"
+      type: posts
+    values:
+      permalink: hypothesis/:title
+  # Phenotype
+  - scope:
+      path: "_posts/phenotype"
+      type: posts
+    values:
+      permalink: phenotype/:title
